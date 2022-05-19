@@ -1,0 +1,12 @@
+{
+"Name":"Chandan",
+"email":"chandan@123gmail.com",
+"PhoneNo":9048562333,
+"Payment",:true,
+"Prize":8795.55,
+"address":{
+"Street":"thoraipakkam",
+"District":"Vishgggg",
+"Srate":"Bihar"
+}
+}
